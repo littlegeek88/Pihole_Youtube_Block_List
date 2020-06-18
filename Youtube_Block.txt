@@ -1,0 +1,4 @@
+(^|\.)youtube\.com$
+(^|\.)googleapis\.com$
+(^|\.)googlecontent\.com$
+(^|\.)googlevideo\.com$
