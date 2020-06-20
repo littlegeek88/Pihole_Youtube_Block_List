@@ -1,4 +1,4 @@
-(^|\.)youtube\.com$
-(^|\.)googleapis\.com$
-(^|\.)googlecontent\.com$
-(^|\.)googlevideo\.com$
+127.0.0.1	(^|\.)youtube\.com$
+127.0.0.1	(^|\.)googleapis\.com$
+127.0.0.1	(^|\.)googlecontent\.com$
+127.0.0.1	(^|\.)googlevideo\.com$
